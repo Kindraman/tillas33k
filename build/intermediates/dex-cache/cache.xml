@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\antonio\.android\build-cache\b9c1024206a51b87ba7e61e098be8a153a251249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ea9c72972c381f5d0b6bdef24252ac5d51e4d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antonio\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_154920c43d7be68948287d151f09aead543506c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d3f0092f4decc3c4afc7d3d96008e4b0c8c2c376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d48b17f237debe3ed5a27fec9c1a371aa93b59bd">
+        <dex dex="C:\Users\antonio\AndroidStudioProjects\Veercion2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_be1c3702fc08cd21f682ce234f4fbac85ffa2d6b\classes.dex" />
+    </item>
+
+</items>
